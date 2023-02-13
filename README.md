@@ -21,3 +21,7 @@ In my work I wanted to find answers on the following questions:
 - How does the availability change depending on room type and neighbourhood?
 - How does the hosts' listings count change depending on room type and neighbourhood?
 - How many hosts have different types of property?
+
+### Note!
+
+Most of my plots were created using Plotly library. Unfortunately, they can't be displayed in GitHub. 
