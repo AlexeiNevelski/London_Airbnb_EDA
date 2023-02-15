@@ -24,4 +24,4 @@ In my work I wanted to find answers on the following questions:
 
 ### Note!
 
-Most of my plots were created using Plotly library. Unfortunately, they can't be displayed in GitHub. 
+Most of my plots were created using Plotly library. Unfortunately, they can't be displayed in GitHub. So I added their screenshots below.
